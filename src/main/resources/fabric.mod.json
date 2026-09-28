@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Spawn Protection",
   "description": "Server-side spawn-area protection. Players install nothing.",
-  "authors": ["Cammy"],
+  "authors": ["Glance Studios"],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
